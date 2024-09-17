@@ -1,0 +1,1 @@
+The final project has the same hardware setting as lab 7. The only difference is the modified IP which has its source code in the src folder. All the coe files for initializing bram are included in the folder. The software design is combining lab 6 and 7 by importing modified hdmi_text_controller to lw_usb.
