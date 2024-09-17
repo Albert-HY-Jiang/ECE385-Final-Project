@@ -1,0 +1,1 @@
+The final project has a similar hardware setting as lab 7(text display), except now "hmdi_text_controller" reads sprites in addition to text. All the coe files for initializing bram are included in the folder. The software design combines lab 6(keyboard control) and lab 7 by importing a modified hdmi_text_controller to lw_usb, which now allows game control.
